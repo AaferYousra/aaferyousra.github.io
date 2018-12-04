@@ -194,11 +194,11 @@ SECTION WRAPS
 }
 
 #intro h5, p {
-  color: red;
+  color: black;
 }
 
 #intro i {
-  color: red;
+  color: black;
   font-size: 20px;
   padding-right: 8px;
   vertical-align: middle;
