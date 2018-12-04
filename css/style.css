@@ -187,10 +187,10 @@ SECTION WRAPS
 /* Intnro Wrap */
 
 #intro {
-  background: #2c3e50;
+  background: ##ffffff;
   padding-top: 60px;
   padding-bottom: 60px;
-  color: white;
+  color: black;
 }
 
 #intro h5, p {
