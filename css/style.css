@@ -190,15 +190,15 @@ SECTION WRAPS
   background: ##ffffff;
   padding-top: 60px;
   padding-bottom: 60px;
-  color: black;
+  color: white;
 }
 
 #intro h5, p {
-  color: white;
+  color: red;
 }
 
 #intro i {
-  color: white;
+  color: red;
   font-size: 20px;
   padding-right: 8px;
   vertical-align: middle;
